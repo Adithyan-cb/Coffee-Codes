@@ -1,2 +1,2 @@
 # Coffee-Codes
-if you are some who wants to learn anything related to coding this is the right place for you...
+Embark on your coding journey with my comprehensive GitHub repository designed for IT enthusiasts , non-technincal people who want to learn to code and coding novices alike. Discover curated resources , roadmaps , and everything you need to kickstart your journey in tech. **Let the learning begin!**
