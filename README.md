@@ -17,6 +17,6 @@ I would recommend going through these resources in sequential order, starting fr
 
 Select your preferred learning path. If you aim to secure a job, opt for **job-oriented learning**. Alternatively, if you are pursuing knowledge for personal interests, hobbies, or if you are a teenager eager to explore new technologies, choose the **hobby & interest** track.
 
-- [Job-Oriented Learning](Job-Oriented.md)
-- [Hobby & Interest](Hobby&Interest.md)
+- [Job-Oriented Learning](job-oriented-learning/Job-Oriented.md)
+- [Hobby & Interest](Hobby-&-Interest/Hobby&Interest.md)
 
