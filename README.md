@@ -27,3 +27,17 @@ Select your preferred learning path. If you aim to secure a job, opt for **job-o
 - [Web developer](https://github.com/Adithyan-cb/Coffee-Codes#)
 - [Data scientist](https://github.com/Adithyan-cb/Coffee-Codes#)
 - [Mechine learning engineer](https://github.com/Adithyan-cb/Coffee-Codes#)
+## Software engineer
+
+### Stage 1 : Foundational knowlegde
+1. [**Computer science fundamentals**](https://github.com/Adithyan-cb/Coffee-Codes#)
+    - [Basic understanding of how computers work (hardware, software)](https://github.com/Adithyan-cb/Coffee-Codes#)
+    - [Logic gates, binary arithmetic, bit manipulation](https://github.com/Adithyan-cb/Coffee-Codes#)
+    - [Introduction to operating systems and networking concepts](https://github.com/Adithyan-cb/Coffee-Codes#)
+
+2. [**Mathematics**](https://github.com/Adithyan-cb/Coffee-Codes#)
+    - [Algebra, trigonometry, calculus (basics)](https://github.com/Adithyan-cb/Coffee-Codes#)
+    - [Discrete mathematics (sets, graphs, logic)](https://github.com/Adithyan-cb/Coffee-Codes#)
+    - [Probability and statistics](https://github.com/Adithyan-cb/Coffee-Codes#)
+    - [](https://github.com/Adithyan-cb/Coffee-Codes#)
+    - [](https://github.com/Adithyan-cb/Coffee-Codes#)
